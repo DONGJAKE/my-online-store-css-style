@@ -9,7 +9,7 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #f8f8f8;
+  background-color: white;
 }
 
 .container {
@@ -19,8 +19,8 @@ body {
 }
 
 header {
-  background-color: pink;
-  color: #fff;
+  background-color: rgb(61, 57, 58);
+  color:white;
   padding: 10px 0;
 }
 
@@ -40,7 +40,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #fff;
+  color: white;
   text-decoration: none;
 }
 
@@ -50,7 +50,7 @@ nav ul li a:hover {
 
 hr {
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #dbc5c5;
   margin: 20px 0;
 }
 
@@ -84,7 +84,7 @@ section {
 }
 
 footer {
-  background-color: pink;
+  background-color: rgb(46, 45, 45);
   color: #fff;
   padding: 10px 0;
   text-align: center;
